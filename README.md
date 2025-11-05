@@ -1,5 +1,5 @@
 # Flight Status & Performance Dashboard (FAA Case Study)
-https://app.powerbi.com/reportEmbed?reportId=1cdf96f6-e2f3-4bac-aa07-48a05386800c&autoAuth=true&ctid=edd67062-29c1-4a50-8fac-9813dfae8e4b
+https://app.powerbi.com/view?r=eyJrIjoiNzlhYTE2M2UtZDdmMC00OTNjLTkxZWItZjUyYzg4NDJiZjhkIiwidCI6ImVkZDY3MDYyLTI5YzEtNGE1MC04ZmFjLTk4MTNkZmFlOGU0YiJ9
 
 ## Project Overview
 
